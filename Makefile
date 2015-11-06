@@ -1,0 +1,2 @@
+gen-packages:
+	./generate.php
