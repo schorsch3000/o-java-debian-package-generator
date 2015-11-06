@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 define('MAINTAINER_REALNAME', 'Joe Tester');
 define('MAINTAINER_EMAIL', 'joe@foo.bar');
